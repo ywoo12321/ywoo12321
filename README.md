@@ -5,7 +5,7 @@
 
 - 🌱 현재 **NEXT.js & 리액트 쿼리**를 배우고 있습니다.
 
-- 👨‍💻 모든 프로젝트는 [https://tested-manatee-72a.notion.site/Kim]에서 확인하실 수 있습니다. -Yeong-Woo-06ca9d4d96aa40b799633482400907aa](https://tested-manatee-72a.notion.site/Kim-Yeong-Woo-06ca9d4d96aa40b799633482400907aa)
+- 👨‍💻 모든 프로젝트는 [https://tested-manatee-72a.notion.site/Kim-Yeong-Woo-06ca9d4d96aa40b799633482400907aa]에서 확인하실 수 있습니다. (https://tested-manatee-72a.notion.site/Kim-Yeong-Woo-06ca9d4d96aa40b799633482400907aa)
 
 - 📝 정기적으로 [https://velog.io/@0_]에 글을 쓰고 있습니다. 오른쪽]( https://velog.io/@0_right)
 
