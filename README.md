@@ -2,8 +2,8 @@
 ### TECH SKILLS  👋
 <div>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
+  <img src="https://img.shields.io/badge/next.js-339933?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://shields.io/badge/react-E0234E?logo=react&style=for-the-badge">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
